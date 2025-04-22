@@ -1,0 +1,21 @@
+{
+  "name": "esteban-dark-pro",
+  "displayName": "Esteban Dark Pro",
+  "description": "Un tema oscuro elegante y confortable para desarrolladores, con colores armoniosos que reducen la fatiga visual durante largas sesiones de codificación",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Esteban Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extension Theme by Esteban-color-theme.json"
+      }
+    ]
+  }
+}
