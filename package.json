@@ -17,5 +17,23 @@
         "path": "./themes/Extension Theme by Esteban-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "images/icon.jpeg",
+  "keywords": [
+    "theme",
+    "dark",
+    "color",
+    "esteban",
+    "pro"
+  ],
+  "publisher": "color-theme-by-esteban",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esteban-ll-aguilar/color-theme.git"
+  },
+  "author": {
+    "name": "Esteban L. Aguilar",
+    "email": "esteban.h.leon.aguilar@gmail.com",
+    "url": "https://www.linkedin.com/in/esteban-leon-aguilar/"
+  } 
 }
